@@ -1,0 +1,9 @@
+name: project
+root: ~/
+
+windows:
+  - main:
+      layout: tiled
+      panes:
+        - vim
+        - ash
